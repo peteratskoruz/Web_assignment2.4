@@ -1,0 +1,2 @@
+# Web_assignment2.4
+Create a class which takes Generics of &lt;T>.  Create 2 interfaces which should have two different properties and pass those interface in the class initialization.  The class should have an array to store the value.  Create an instance of the class with two different interface and push the value in the class. Create a generics.html, add compiled file into this HTML like(generics.js).  And in console check if the two-different object has been passed or not.
